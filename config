@@ -1,0 +1,6 @@
+directory-public-virtual : /client/
+directory-public : /public/
+allow_compile_script : false
+allow_compile_html : false
+allow_compile_css : false
+allow_gzip : true

@@ -1,0 +1,7 @@
+/tmp/
+node_modules
+.src
+.vscode
+debug.pid
+/public
+logs
